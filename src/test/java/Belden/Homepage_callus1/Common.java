@@ -2,10 +2,7 @@ package Belden.Homepage_callus1;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-
 import io.cucumber.java.en.Given;
-import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Common {
 	WebDriver driver;
