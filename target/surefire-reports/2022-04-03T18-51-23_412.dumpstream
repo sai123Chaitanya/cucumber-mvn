@@ -1,0 +1,4 @@
+# Created at 2022-04-03T18:51:23.765
+Boot Manifest-JAR contains absolute paths in classpath 'D:\software-Testing\wp49\Homepage_callus1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
